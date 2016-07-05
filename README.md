@@ -20,3 +20,6 @@ Using Kinect sensor to detect gesture and operate on Bing Map
  3. Install Bing Maps WPF control, Put your Bing Map Key in MainWindow.xaml - CredentialsProvider="YOUR BING MAP KEY"
  - https://msdn.microsoft.com/en-us/library/hh745791.aspx
  - https://www.microsoft.com/en-us/download/confirmation.aspx?id=27165
+
+Demo
+- https://youtu.be/iQn9yGz36cI
