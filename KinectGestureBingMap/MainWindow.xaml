@@ -1,0 +1,17 @@
+﻿<Window x:Class="KinectStreams.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:m="clr-namespace:Microsoft.Maps.MapControl.WPF;assembly=Microsoft.Maps.MapControl.WPF"
+        Title="Kinect | Bing Map Gesture" Height="1080" Width="1920" Loaded="Window_Loaded" Closed="Window_Closed">
+    <Grid>
+        <m:Map CredentialsProvider="YOUR BING MAP KEY" Center="61.501100, 23.776990" ZoomLevel="12" x:Name="myMap"/>
+        <Image Name="camera" Width="400"  HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <Canvas Name="canvas" Width="1920" Height="1080" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <Canvas Name="infoCanvas"/>
+        <Grid Style="{StaticResource GridButtonsStyle}">
+            <StackPanel Style="{StaticResource StackPanelButtonsStyle}">
+                <Button Content="Gesture" Style="{StaticResource ButtonStyle}" Click="Body_Click" />
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>

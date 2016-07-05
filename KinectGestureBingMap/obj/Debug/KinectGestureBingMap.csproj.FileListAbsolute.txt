@@ -1,0 +1,9 @@
+C:\Users\t-yaope\Downloads\KinectStreams\KinectStreams\KinectStreams\bin\Debug\KinectStreams.exe.config
+C:\Users\t-yaope\Downloads\KinectStreams\KinectStreams\KinectStreams\obj\Debug\KinectStreams.exe
+C:\Users\t-yaope\Downloads\KinectStreams\KinectStreams\KinectStreams\obj\Debug\KinectStreams.pdb
+C:\Users\t-yaope\Downloads\KinectStreams\KinectStreams\KinectGestureBingMap\bin\Debug\KinectStreams.exe.config
+C:\Users\t-yaope\Downloads\KinectStreams\KinectStreams\KinectGestureBingMap\obj\Debug\KinectStreams.exe
+C:\Users\t-yaope\Downloads\KinectStreams\KinectStreams\KinectGestureBingMap\obj\Debug\KinectStreams.pdb
+C:\Users\t-yaope\Downloads\KinectStreams\KinectGestureBingMap\KinectGestureBingMap\bin\Debug\KinectStreams.exe.config
+C:\Users\t-yaope\Downloads\KinectStreams\KinectGestureBingMap\KinectGestureBingMap\obj\Debug\KinectStreams.exe
+C:\Users\t-yaope\Downloads\KinectStreams\KinectGestureBingMap\KinectGestureBingMap\obj\Debug\KinectStreams.pdb
