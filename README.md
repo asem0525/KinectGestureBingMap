@@ -13,7 +13,7 @@ Using Kinect sensor to detect gesture and operate on Bing Map
  - Only put your right hand up, stop at a point and keep the pose for a short time to trigger the navigation operation
  - Once the navigation operation triggered, move your right hand to any direction you want
  
- Requirements:
+Requirements:
  
  1. Kinect Sensor
  2. VS 2015
